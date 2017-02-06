@@ -9,7 +9,7 @@ imodevtools 2 source code ( open source it may help some developers )
 * set ads banner at top
 
 
-### Firebase Analytics
+### Firebase
 * set firebase defaults options from plist path
 * configure app from the default options we set before
 * signup user with email and custom password ;)
