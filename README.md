@@ -60,6 +60,8 @@ imodevtools 2 source code ( open source it may help some developers )
 
 * [RocketBootStrap by RPetrich](https://github.com/rpetrich/RocketBootstrap)
 * [unbox by H2CO3](https://github.com/H2CO3/Unbox)
+* PixelFireDev for specific features like ( follow twitter alert )
+
 
 # License
 
