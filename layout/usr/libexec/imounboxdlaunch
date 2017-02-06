@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "Starting imounbox"
+exec /usr/libexec/imounbox

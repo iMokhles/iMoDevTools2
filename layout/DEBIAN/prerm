@@ -1,0 +1,3 @@
+#!/bin/sh
+launchctl unload /Library/LaunchDaemons/com.imokhles.imounboxdlaunch.plist 2>&1 > /dev/null
+exit 0

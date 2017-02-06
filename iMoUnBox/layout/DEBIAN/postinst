@@ -1,0 +1,10 @@
+#!/bin/sh
+chown root:wheel /Library/LaunchDaemons/com.imokhles.imounboxdlaunch.plist
+chmod 644 /Library/LaunchDaemons/com.imokhles.imounboxdlaunch.plist
+
+chmod 4755 /usr/libexec/imounbox
+chown root:wheel /usr/libexec/imounbox
+
+launchctl unload /Library/LaunchDaemons/com.imokhles.imounboxdlaunch.plist
+launchctl load /Library/LaunchDaemons/com.imokhles.imounboxdlaunch.plist
+exit 0
